@@ -1,0 +1,18 @@
+{
+  "name": "Anchor Tokens",
+  "symbol": "ANC",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x1Fba7533fE58baeBc6312A9f66Aae78C0400dB82",
+  "links": [
+    {
+      "name": "website",
+      "url": "https://yourwebsite.com"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/ANCTOKENS"
+    }
+  ]
+}
